@@ -37,4 +37,4 @@
 
 ![alt text](https://github.com/ravigupta5/Devanagari_Script_Recognition/blob/master/black_white.png?raw=true)
 
-**So the next step to explore could be image processing such that other backgroud images are converted into black blackground with white characters 
+**So the next step to explore could be image processing such that other backgroud images are converted into black blackground with white characters**
